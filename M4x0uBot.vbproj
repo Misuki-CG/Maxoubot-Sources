@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E00D282F-065C-4F7E-AA58-6A4BA22FE375}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Kim.My.MyApplication</StartupObject>
+    <RootNamespace>Kim</RootNamespace>
+    <AssemblyName>KimKiLL Bot dofus</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>KimKiLL Bot dofus.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>Release\</OutputPath>
+    <DocumentationFile>KimKiLL Bot dofus.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.0.30714, Culture=neutral, PublicKeyToken=b32731d11ce58905">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Swf\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="SharpZipLib, Version=0.81.0.1407, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Swf\SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="SwfDotNet.IO, Version=0.9.0.24398, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Swf\SwfDotNet.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationProvider">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Autres\Clef.Designer.vb">
+      <DependentUpon>Clef.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Autres\Clef.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Autres\UserPerso.Designer.vb">
+      <DependentUpon>UserPerso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Autres\UserPerso.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Classes\ElgSocketClient.vb" />
+    <Compile Include="Classes\Perso.vb" />
+    <Compile Include="Fichier\Account.vb" />
+    <Compile Include="Fichier\Config.vb" />
+    <Compile Include="Fichier\Maps.vb" />
+    <Compile Include="Forms\Form.Designer.vb">
+      <DependentUpon>Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdd.Designer.vb">
+      <DependentUpon>FormAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormConfig.Designer.vb">
+      <DependentUpon>FormConfig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormConfig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormDebug.Designer.vb">
+      <DependentUpon>FormDebug.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormDebug.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormDel.Designer.vb">
+      <DependentUpon>FormDel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormDel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormFinPhrase.Designer.vb">
+      <DependentUpon>FormFinPhrase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormFinPhrase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormIA.Designer.vb">
+      <DependentUpon>FormIA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormIA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormLoad.Designer.vb">
+      <DependentUpon>FormLoad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormLoad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormModify.Designer.vb">
+      <DependentUpon>FormModify.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormModify.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Pathfinding.vb" />
+    <Compile Include="Modules\SwfUnpacker.vb" />
+    <Compile Include="Modules\Threads.vb" />
+    <Compile Include="Plugins\AccountCreator.Designer.vb">
+      <DependentUpon>AccountCreator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Plugins\AccountCreator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plugins\CharacterCreator.Designer.vb">
+      <DependentUpon>CharacterCreator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Plugins\CharacterCreator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socket\AutoLaunch.vb" />
+    <Compile Include="Modules\Declarations.vb" />
+    <Compile Include="Modules\Fonctions.vb" />
+    <Compile Include="Modules\Maphandler.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Socket\Action.vb" />
+    <Compile Include="Socket\Chat.vb" />
+    <Compile Include="Socket\Combat.vb" />
+    <Compile Include="Socket\Connexion.vb" />
+    <Compile Include="Socket\Echange.vb" />
+    <Compile Include="Socket\InfoPerso.vb" />
+    <Compile Include="Socket\Inventaire.vb" />
+    <Compile Include="Socket\MobPlus.vb" />
+    <Compile Include="Socket\Objets.vb" />
+    <Compile Include="Socket\Movement.vb" />
+    <Compile Include="Socket\Protect.vb" />
+    <Compile Include="Socket\Ressources.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Autres\Clef.resx">
+      <DependentUpon>Clef.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Autres\UserPerso.resx">
+      <DependentUpon>UserPerso.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form.resx">
+      <DependentUpon>Form.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAdd.resx">
+      <DependentUpon>FormAdd.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormConfig.resx">
+      <DependentUpon>FormConfig.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormDebug.resx">
+      <DependentUpon>FormDebug.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormDel.resx">
+      <DependentUpon>FormDel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormFinPhrase.resx">
+      <DependentUpon>FormFinPhrase.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormIA.resx">
+      <DependentUpon>FormIA.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormLoad.resx">
+      <DependentUpon>FormLoad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormModify.resx">
+      <DependentUpon>FormModify.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plugins\AccountCreator.resx">
+      <DependentUpon>AccountCreator.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plugins\CharacterCreator.resx">
+      <DependentUpon>CharacterCreator.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Autres\m4x0uBot.ico" />
+    <Content Include="favicon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

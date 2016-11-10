@@ -1,0 +1,119 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KimKiLLBotdofus
+</name>
+</assembly>
+<members>
+<member name="M:Kim.ElgSocketEventArgs.#ctor(System.String,System.Net.Sockets.Socket)">
+	<summary>
+ Constructeur par defaut
+ </summary>
+	<param name="Message">Message transmis</param>
+	<param name="LaSocket">Socket cliente</param>
+	<remarks></remarks>
+</member><member name="M:Kim.ElgSocketEventArgs.#ctor(System.Net.Sockets.Socket)">
+	<summary>
+ Constructeur surchargé
+ </summary>
+	<param name="LaSocket">Socket cliente</param>
+	<remarks>Fait appel au constructeur <c>Sub New(ByVal Message As String, ByVal LaSocket As Socket)</c></remarks>
+</member><member name="M:Kim.ElgSocketEventArgs.#ctor(System.String)">
+	<summary>
+ Constructeur surchargé
+ </summary>
+	<param name="Message">Message transmis</param>
+	<remarks>Fait appel au constructeur <c>Sub New(ByVal Message As String, ByVal LaSocket As Socket)</c></remarks>
+</member><member name="T:Kim.ElgSocketEventArgs">
+	<summary>
+ Classe de gestion des evenements
+ </summary>
+	<auteur>LEVEUGLE Damien [Elguevel]</auteur>
+	<remarks></remarks>
+</member><member name="P:Kim.ElgSocketClient.LaSocket">
+	<summary>
+ Accesseur à la socket d'ecoute
+ </summary>
+	<value>Socket d'ecoute</value>
+	<remarks>Cette socket ne devrait normalement jamais être utilisé en dehors de la classe</remarks>
+</member><member name="P:Kim.ElgSocketClient.Connecter">
+	<summary>
+ Connecté ou pas ?
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Kim.ElgSocketClient.Envoyer(System.String)">
+	<summary>
+ Envoi une chaine au client
+ </summary>
+	<param name="Message">Chaine à envoyer vers le serveur</param>
+	<remarks></remarks>
+</member><member name="M:Kim.ElgSocketClient.Connexion(System.Boolean)">
+	<summary>
+ Se connecte / Se deconnecte
+ </summary>
+	<param name="Active">Active ou desactive la socket</param>
+	<remarks>METHODE A REVOIR</remarks>
+</member><member name="M:Kim.ElgSocketClient.CallBackConnect(System.IAsyncResult)">
+	<summary>
+ Callback de connexion vers le serveur
+ </summary>
+	<param name="async"></param>
+	<remarks></remarks>
+</member><member name="M:Kim.ElgSocketClient.CallBackDisconnect(System.IAsyncResult)">
+	<summary>
+ Callback declenché à la deconnexion
+ </summary>
+	<param name="async"></param>
+	<remarks></remarks>
+</member><member name="M:Kim.ElgSocketClient.CallBackReceive(System.IAsyncResult)">
+	<summary>
+ Callback de reception des données
+ </summary>
+	<param name="async"></param>
+	<remarks></remarks>
+</member><member name="M:Kim.ElgSocketClient.CallBackSender(System.IAsyncResult)">
+	<summary>
+ Callback d'envoi des données
+ </summary>
+	<param name="async"></param>
+	<remarks></remarks>
+</member><member name="M:Kim.ElgSocketClient.#ctor(System.String,System.Int32)">
+	<summary>
+ Constructeur par defaut
+ </summary>
+	<param name="Hote"></param>
+	<param name="Port"></param>
+	<remarks></remarks>
+</member><member name="M:Kim.ElgSocketClient.Dispose(System.Boolean)">
+	<summary>
+ IDisposable
+ </summary>
+	<param name="disposing"></param>
+	<remarks></remarks>
+</member><member name="T:Kim.ElgSocketClient">
+	<summary>
+ Class permettant la gestion des connexions vers le serveur
+ </summary>
+	<auteur>LEVEUGLE Damien</auteur>
+	<copyright>Elguevel Software 2008</copyright>
+	<version>1.0</version>
+	<remarks>Module client</remarks>
+</member><member name="P:Kim.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:Kim.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="T:Kim.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>

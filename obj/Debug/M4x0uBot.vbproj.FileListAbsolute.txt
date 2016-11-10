@@ -1,0 +1,89 @@
+D:\BACKUP2\Projetos\OFF\bin\Debug\KimKiLL Bot dofus.exe
+D:\BACKUP2\Projetos\OFF\bin\Debug\KimKiLL Bot dofus.pdb
+D:\BACKUP2\Projetos\OFF\bin\Debug\KimKiLL Bot dofus.xml
+D:\BACKUP2\Projetos\OFF\obj\Debug\ResolveAssemblyReference.cache
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.Clef.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.UserPerso.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.Form.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.FormAdd.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.FormConfig.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.FormDebug.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.FormDel.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.FormFinPhrase.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.FormIA.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.FormLoad.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.FormModify.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.Resources.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.AccountCreator.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\Kim.CharacterCreator.resources
+D:\BACKUP2\Projetos\OFF\obj\Debug\M4x0uBot.vbproj.GenerateResource.Cache
+D:\BACKUP2\Projetos\OFF\obj\Debug\KimKiLL Bot dofus.exe
+D:\BACKUP2\Projetos\OFF\obj\Debug\KimKiLL Bot dofus.xml
+D:\BACKUP2\Projetos\OFF\obj\Debug\KimKiLL Bot dofus.pdb
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\KimKiLL Bot dofus.exe
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\KimKiLL Bot dofus.xml
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\KimKiLL Bot dofus.pdb
+C:\Users\tifoux\Documents\M4xOuBot\bin\Debug\KimKiLL Bot dofus.exe
+C:\Users\tifoux\Documents\M4xOuBot\bin\Debug\KimKiLL Bot dofus.pdb
+C:\Users\tifoux\Documents\M4xOuBot\bin\Debug\KimKiLL Bot dofus.xml
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.Clef.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.UserPerso.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.Form.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.FormAdd.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.FormConfig.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.FormDebug.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.FormDel.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.FormFinPhrase.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.FormIA.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.FormLoad.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.FormModify.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.Resources.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.AccountCreator.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\Kim.CharacterCreator.resources
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\tifoux\Documents\M4xOuBot\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\KimKiLL Bot dofus.exe
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\KimKiLL Bot dofus.xml
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\KimKiLL Bot dofus.pdb
+C:\Users\CrazyAngel\Desktop\M4x0ubot\bin\Debug\KimKiLL Bot dofus.exe
+C:\Users\CrazyAngel\Desktop\M4x0ubot\bin\Debug\KimKiLL Bot dofus.pdb
+C:\Users\CrazyAngel\Desktop\M4x0ubot\bin\Debug\KimKiLL Bot dofus.xml
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\M4x0uBot.vbprojResolveAssemblyReference.cache
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.Clef.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.UserPerso.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.Form.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.FormAdd.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.FormConfig.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.FormDebug.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.FormDel.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.FormFinPhrase.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.FormIA.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.FormLoad.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.FormModify.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.Resources.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.AccountCreator.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\Kim.CharacterCreator.resources
+C:\Users\CrazyAngel\Desktop\M4x0ubot\obj\Debug\M4x0uBot.vbproj.GenerateResource.Cache
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\KimKiLL Bot dofus.exe
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\KimKiLL Bot dofus.xml
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\KimKiLL Bot dofus.pdb
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\bin\Debug\KimKiLL Bot dofus.exe
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\bin\Debug\KimKiLL Bot dofus.pdb
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\bin\Debug\KimKiLL Bot dofus.xml
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\M4x0uBot.vbprojResolveAssemblyReference.cache
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.Clef.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.UserPerso.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.Form.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.FormAdd.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.FormConfig.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.FormDebug.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.FormDel.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.FormFinPhrase.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.FormIA.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.FormLoad.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.FormModify.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.Resources.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.AccountCreator.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\Kim.CharacterCreator.resources
+C:\Users\MyHand\Desktop\Maxoubot_Sources\M4x0ubot\Sources\obj\Debug\M4x0uBot.vbproj.GenerateResource.Cache

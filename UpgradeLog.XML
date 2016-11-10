@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="M4x0uBot">
+</Property><Property Name="Fichier solution" Value="C:\Users\tifoux\Documents\M4xOuBot\M4x0uBot.sln">
+</Property><Property Name="Date" Value="jeudi 9 août 2012">
+</Property><Property Name="Time" Value="07:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="M4x0uBot.sln" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\M4x0uBot.sln">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="M4x0uBot.vbproj" Description="Fichier projet correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\M4x0uBot.vbproj">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="M4x0uBot.vbproj.user" Description="Fichier utilisateur de projet correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\M4x0uBot.vbproj.user">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Autres\Clef.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Autres\Clef.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Autres\Clef.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Autres\Clef.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Autres\UserPerso.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Autres\UserPerso.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Autres\UserPerso.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Autres\UserPerso.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Classes\ElgSocketClient.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Classes\ElgSocketClient.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Classes\Perso.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Classes\Perso.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Fichier\Account.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Fichier\Account.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Fichier\Config.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Fichier\Config.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Fichier\Maps.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Fichier\Maps.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\Form.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\Form.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\Form.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\Form.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormAdd.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormAdd.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormAdd.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormAdd.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormConfig.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormConfig.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormConfig.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormConfig.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormDebug.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormDebug.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormDebug.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormDebug.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormDel.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormDel.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormDel.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormDel.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormFinPhrase.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormFinPhrase.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormFinPhrase.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormFinPhrase.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormIA.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormIA.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormIA.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormIA.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormLoad.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormLoad.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormLoad.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormLoad.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormModify.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormModify.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormModify.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormModify.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Modules\Pathfinding.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Modules\Pathfinding.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Modules\SwfUnpacker.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Modules\SwfUnpacker.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Modules\Threads.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Modules\Threads.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Plugins\AccountCreator.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Plugins\AccountCreator.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Plugins\AccountCreator.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Plugins\AccountCreator.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Plugins\CharacterCreator.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Plugins\CharacterCreator.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Plugins\CharacterCreator.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Plugins\CharacterCreator.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Socket\AutoLaunch.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Socket\AutoLaunch.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Modules\Declarations.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Modules\Declarations.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Modules\Fonctions.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Modules\Fonctions.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Modules\Maphandler.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Modules\Maphandler.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="My Project\AssemblyInfo.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="My Project\Application.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="My Project\Resources.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="My Project\Settings.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Socket\Action.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Socket\Action.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Socket\Chat.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Socket\Chat.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Socket\Combat.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Socket\Combat.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Socket\Connexion.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Socket\Connexion.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Socket\Echange.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Socket\Echange.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Socket\InfoPerso.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Socket\InfoPerso.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Socket\Inventaire.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Socket\Inventaire.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Socket\MobPlus.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Socket\MobPlus.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Socket\Objets.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Socket\Objets.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Socket\Movement.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Socket\Movement.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Socket\Protect.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Socket\Protect.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Socket\Ressources.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Socket\Ressources.vb">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="My Project\Application.myapp" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="My Project\Settings.settings" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Autres\m4x0uBot.ico" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Autres\m4x0uBot.ico">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="favicon.ico" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\favicon.ico">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Autres\Clef.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Autres\Clef.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Autres\UserPerso.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Autres\UserPerso.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\Form.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\Form.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormAdd.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormAdd.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormConfig.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormConfig.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormDebug.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormDebug.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormDel.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormDel.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormFinPhrase.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormFinPhrase.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormIA.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormIA.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormLoad.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormLoad.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Forms\FormModify.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Forms\FormModify.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="My Project\Resources.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Plugins\AccountCreator.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Plugins\AccountCreator.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="Plugins\CharacterCreator.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\tifoux\Documents\M4xOuBot\Backup\Plugins\CharacterCreator.resx">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="M4x0uBot.vbproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="M4x0uBot" Source="M4x0uBot.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="M4x0uBot.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="M4x0uBot.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="M4x0uBot" Source="M4x0uBot.vbproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>
